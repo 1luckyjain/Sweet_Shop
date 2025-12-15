@@ -117,6 +117,3 @@ logs/
 # Backup files
 *.bak
 *.backup
-
-# Claude AI assistant files
-.claude/
